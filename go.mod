@@ -1,4 +1,4 @@
-module github.com/caddy-dns/arvancloud
+module github.com/DaveTheBlazz/arvancloud
 
 go 1.23.0
 
